@@ -28,3 +28,4 @@
 总体来说，个人感觉模拟电子有很多知识概念比较晦涩难懂，所以在自学时，会找一些知识点的视频来看（弱弱地说一句，这也是给4星的原因，☝️录制的有些视频有点磕巴，还剪辑的有点不顺畅）
 1. PN结：https://www.bilibili.com/video/BV1bm4y1V7Ek/?share_source=copy_web&vd_source=4a7721c72e557f0a29687fcec8cc5377
 2. 电击穿：https://www.bilibili.com/video/BV17t411C7xP/?share_source=copy_web&vd_source=4a7721c72e557f0a29687fcec8cc5377（https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-semiconductors）
+3. 波特图：https://www.bilibili.com/video/BV18N41137eh/?share_source=copy_web&vd_source=4a7721c72e557f0a29687fcec8cc5377
