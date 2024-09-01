@@ -29,3 +29,9 @@
 1. PN结：https://www.bilibili.com/video/BV1bm4y1V7Ek/?share_source=copy_web&vd_source=4a7721c72e557f0a29687fcec8cc5377
 2. 电击穿：https://www.bilibili.com/video/BV17t411C7xP/?share_source=copy_web&vd_source=4a7721c72e557f0a29687fcec8cc5377（https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-semiconductors）
 3. 波特图：https://www.bilibili.com/video/BV18N41137eh/?share_source=copy_web&vd_source=4a7721c72e557f0a29687fcec8cc5377
+
+#### 数字电子技术
+
+1. 格雷码与2进制互相转换：https://www.bilibili.com/video/BV1qL41127tK/?share_source=copy_web&vd_source=4a7721c72e557f0a29687fcec8cc5377
+2. 卡诺图：https://www.bilibili.com/video/BV16s4y1m7H6/?share_source=copy_web&vd_source=4a7721c72e557f0a29687fcec8cc5377
+
