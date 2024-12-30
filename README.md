@@ -10,6 +10,7 @@
 | 电路 | [课程link](https://www.bilibili.com/video/BV1zr4y1P7na/) b站 | 《电路》邱关源 |
 | 模拟电路 | [课程link](https://www.bilibili.com/video/BV1Gt411b7Zq/) b站 | 《模拟电子技术基础》清华大学电子学教研组 |
 | 数字电路 | [课程link](https://www.bilibili.com/video/BV18p411Z7ce/) b站 | 《数字电子技术基础》清华大学电子学教研组 |
+| 信号与系统 | [课程link](https://www.bilibili.com/video/BV1g94y1Q76G) b站 | 《信号与系统》于慧敏（第二版） |
 
 ### 自学教材
 
